@@ -1,5 +1,3 @@
-# Job-Portal
-MERN  Stack projecct
 
 
 Project Overview
